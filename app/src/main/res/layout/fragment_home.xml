@@ -4,7 +4,7 @@
     android:id="@+id/frameLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_orange_dark"
+    android:background="@color/colorOrange"
     tools:context="com.example.kevin.myapplication.HomeFragment">
 
     <!-- TODO: Update blank fragment layout -->
@@ -17,9 +17,9 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:background="@android:color/holo_blue_light"
+        android:background="@color/colorBlue"
         android:text="@string/txt_btn_home_1"
-        android:textColor="@android:color/background_light"
+        android:textColor="@color/colorWhite"
         app:layout_constraintBottom_toTopOf="@+id/btn_search"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -33,9 +33,9 @@
         android:layout_marginBottom="16dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:background="@android:color/background_light"
+        android:background="@color/colorWhite"
         android:text="@string/txt_btn_home_2"
-        android:textColor="@android:color/holo_blue_light"
+        android:textColor="@color/colorBlue"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -49,7 +49,7 @@
         android:layout_marginTop="116dp"
         android:text="@string/txt_home"
         android:textAlignment="center"
-        android:textColor="@android:color/background_light"
+        android:textColor="@color/colorWhite"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.504"

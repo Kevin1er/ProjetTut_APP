@@ -15,4 +15,5 @@
     <string name="txt_plain_heure">Heure</string>
     <string name="txt_plain_poids">Poids</string>
     <string name="btn_search_txt">Rechercher</string>
+    <string name="splash_screen_title">Splash Screen</string>
 </resources>
