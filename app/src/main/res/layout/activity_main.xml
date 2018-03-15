@@ -35,16 +35,17 @@
         android:id="@+id/txt_header"
         android:layout_width="0dp"
         android:layout_height="55dp"
-        android:background="@android:color/holo_blue_light"
+        android:background="@color/colorBlue"
         android:paddingLeft="10dp"
         android:paddingTop="15dp"
         android:text="TextView"
         android:textAlignment="viewStart"
         android:textAllCaps="false"
-        android:textColor="@android:color/background_light"
+        android:textColor="@color/colorWhite"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="start" />
 
 </android.support.constraint.ConstraintLayout>
