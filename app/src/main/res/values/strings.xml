@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BagShare</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Rechercher</string>
+    <string name="title_propose">Proposer</string>
+    <string name="title_message">Messages</string>
+    <string name="title_profile">Profil</string>
+    <string name="toolbar_search">Search</string>
+    <string name="txt_home">Vous prennez l\'avion ?</string>
+    <string name="txt_btn_home_1">PROPOSER UN TRANSPORT</string>
+    <string name="txt_btn_home_2">RECHERCHER</string>
+    <string name="txt_plain_depart">Départ</string>
+    <string name="txt_plain_destination">Destination</string>
+    <string name="txt_plain_date">Date</string>
+    <string name="txt_plain_heure">Heure</string>
+    <string name="txt_plain_poids">Poids</string>
+    <string name="btn_search_txt">Rechercher</string>
+</resources>
